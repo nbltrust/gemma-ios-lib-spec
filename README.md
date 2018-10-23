@@ -7,4 +7,4 @@ You can install gemma-ios-lib-spec via Carthage by adding the following line to 
 
 binary "https://nbltrust.github.io/gemma-ios-lib-spec/Carthage/iOS/iOS_EWalletDynamic.json"
 
-binary "https://nbltrust.github.io/gemma-ios-lib-spec/Carthage/iOS/Seed39.json"
+binary "https://nbltrust.github.io/gemma-ios-lib-spec/Carthage/iOS/seed39_ios_golang.json"
